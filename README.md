@@ -1,17 +1,17 @@
 # Home Test
 
-Create a simple Android project. Code to display the following keyword list as designed:
+Create a simple Android project. Call api to get list of products then display as design:
 
- ![](./demo.gif)
+ ![](./screenshot.png)
 
-Requirement:
+Resources:
 
- * [ ] If the keyword is more than one word, then display in two lines. These two lines should have minimum difference in length. For example: "nguyễn nhật ánh" should be "nguyễn\nnhật ánh", not "nguyễn nhật\nánh". Because difference in length of "nguyễn" and "nhật ánh" is less than difference in length of "nguyễn nhật" and "ánh".
- * [ ] Keywords must be fetched from the [link](https://raw.githubusercontent.com/tikivn/android-home-test/v2/keywords.json).
-
-If you have any questions please send email to giang.nguyen@tiki.vn for answers.
+ * API: [products.json](./products.json)
+ * Icons: can be found in this repository.
+   * ![](./fast_delivery.svg)
+   * ![](./tiki_now.svg)
 
 PS: 
 
- * [ ] Upload your submission to Github then send me the link.
- * [ ] Requirements are very simple. But don't do it sketchily. Pay attention on performance, algorithms. Testing, if any, will be a plus.
+ * Upload your submission to Github then send the link.
+ * If you have any questions please send email to <giang.nguyen@tiki.vn> for answers.
