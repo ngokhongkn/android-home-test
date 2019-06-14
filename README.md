@@ -6,7 +6,7 @@ Create a simple Android project. Call api to get list of products then display a
 
 Resources:
 
- * API: [products.json](./products.json)
+ * API: [products.json](https://raw.githubusercontent.com/tikivn/android-home-test/v3/products.json)
  * Icons: can be found in this repository.
    * ![](./fast_delivery.svg)
    * ![](./tiki_now.svg)
